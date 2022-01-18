@@ -23,3 +23,14 @@ MarkDown 1-5: Represents the Type of markdown and what quantity was available du
 CPI: Consumer price Index during that week.
 
 Unemployment: The unemployment rate during that week in the region of the store.
+
+## Sales: 
+
+Date: The date of the week where this observation was taken.
+
+Weekly_Sales : The sales recorded during that week.
+
+Dept: One of 1-99 that shows the department.
+
+IsHoliday: a Boolean value representing a holiday week or not.
+
