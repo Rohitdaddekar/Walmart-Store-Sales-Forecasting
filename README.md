@@ -34,3 +34,8 @@ Dept: One of 1-99 that shows the department.
 
 IsHoliday: a Boolean value representing a holiday week or not.
 
+# Conclusion:
+              In Conclusion, for this Walmart sales predication we used four different Machine learning techniques: Linear Regression Model, Random forest Regression Model, KNN regression Model, XG Boost Regression model and we find that our Random forest regression equation is quite accurate (97.88% accuracy). The analysis shows that in the april and December, store type A & B shows very high sales may be because of the special days like Good Friday and Christmas. High markdowns are not helping the sales. The relationship between the sales and temperature was varying with the each and every department. Hence, the above were the insights drawn by the analysis of the sales data of the Walmart.
+
+
+
